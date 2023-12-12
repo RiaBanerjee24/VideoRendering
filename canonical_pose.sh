@@ -1,0 +1,1 @@
+python render_360.py use_cuda=no --scene_dir ./data/bike --weights_path ./out/bike_human/checkpoint.pth.tar --mode canonical_360
